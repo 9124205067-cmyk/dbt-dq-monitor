@@ -1,0 +1,30 @@
+{
+  "nodes": {
+    "model.my_project.orders": {
+      "name": "orders",
+      "resource_type": "model",
+      "columns": {
+        "order_id": {
+          "name": "order_id",
+          "data_type": "integer"
+        },
+        "customer_name": {
+          "name": "customer_name",
+          "data_type": "varchar"
+        },
+        "amount": {
+          "name": "amount",
+          "data_type": "float"
+        },
+        "status": {
+          "name": "status",
+          "data_type": "varchar"
+        },
+        "order_date": {
+          "name": "order_date",
+          "data_type": "date"
+        }
+      }
+    }
+  }
+}

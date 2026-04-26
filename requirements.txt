@@ -1,0 +1,9 @@
+dbt-core
+dbt-postgres
+deepdiff
+pyyaml
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pandas
+tabulate

@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "unique_id": "test.my_project.not_null_orders_order_id",
+      "status": "fail",
+      "failures": 1,
+      "message": "Got 1 result, configured to fail if != 0",
+      "execution_time": 0.5
+    },
+    {
+      "unique_id": "test.my_project.accepted_values_orders_status",
+      "status": "fail",
+      "failures": 1,
+      "message": "Got 1 result, configured to fail if != 0",
+      "execution_time": 0.3
+    },
+    {
+      "unique_id": "test.my_project.positive_amount_orders",
+      "status": "fail",
+      "failures": 1,
+      "message": "Got 1 result, configured to fail if != 0",
+      "execution_time": 0.4
+    }
+  ]
+}
